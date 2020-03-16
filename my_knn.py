@@ -1,4 +1,6 @@
+import numpy as np
 class KNN():
+   
     
     def fit(self, X_train, y_train):
         self.X_train = X_train
